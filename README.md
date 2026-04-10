@@ -30,5 +30,4 @@ The analysis supports data-driven decisions by identifying key markets and impro
 ## 📊 Dashboard Preview
 ![Dashboard](lookerstudio.png)
 
-## 🔗 Project Access
-(https://lookerstudio.google.com/reporting/2bd6cb61-10a0-4fe0-b211-ea67a236884c)
+## 🔗 [Project Access](https://lookerstudio.google.com/reporting/2bd6cb61-10a0-4fe0-b211-ea67a236884c)
