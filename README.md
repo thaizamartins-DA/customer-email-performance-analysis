@@ -1,4 +1,4 @@
-# Customer & Email Performance Analysis using SQL + Looker Studio
+# Customer & Email Performance Analysis using SQL 
 
 ## 📊 Project Overview
 This project analyzes customer account creation and email performance across multiple countries to identify key markets and user behavior patterns.
