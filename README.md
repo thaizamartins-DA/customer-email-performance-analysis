@@ -32,4 +32,4 @@ The analysis supports data-driven decisions by identifying key markets and impro
 
 ## 🔗 Project Access
 - [SQL Code](https://github.com/thaizamartins-DA/customer-email-performance-analysis/blob/main/analysis_queries.sql)
-- [Dashboard:](https://lookerstudio.google.com/reporting/2bd6cb61-10a0-4fe0-b211-ea67a236884c)
+- [Dashboard](https://lookerstudio.google.com/reporting/2bd6cb61-10a0-4fe0-b211-ea67a236884c)
