@@ -27,8 +27,8 @@ The analysis integrates account and email data using SQL, enabling a complete vi
 ## 💡 Business Impact
 The analysis supports data-driven decisions by identifying key markets and improving email campaign performance.
 
-## 📊 Dashboard
-![Dashboard]([https://lookerstudio.google.com/reporting/2bd6cb61-10a0-4fe0-b211-ea67a236884c](https://lookerstudio.google.com/reporting/2bd6cb61-10a0-4fe0-b211-ea67a236884c))
+## 📊 Dashboard Preview
+![Dashboard](lookerstudio))
 
 ## 🔗 Project Access
 (Add SQL file link here)
