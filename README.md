@@ -28,7 +28,7 @@ The analysis integrates account and email data using SQL, enabling a complete vi
 The analysis supports data-driven decisions by identifying key markets and improving email campaign performance.
 
 ## 📊 Dashboard Preview
-![Dashboard](lookerstudio))
+![Dashboard](lookerstudio.png)
 
 ## 🔗 Project Access
 (Add SQL file link here)
